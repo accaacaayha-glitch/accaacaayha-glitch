@@ -13,28 +13,39 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-```javascript
-const mimi = {
-    fullName: "Amira Octadella",
-    nickname: "Mimi 🎀",
-    birthday: "October 15, 2008 🎂",
-    status: "SMK Student 📚",
-    major: "Rekayasa Perangkat Lunak (RPL) 💻",
-    location: "Indonesia 🇮🇩",
-    
-    passion: [
-        "💕 Web Development",
-        "✨ Public Speaking", 
-        "🌸 Literasi & Menulis",
-        "🎤 MC & Moderator",
-        "🎨 Design & Creativity"
-    ],
-    
-    currentFocus: "Learning, Sharing, Growing! 🚀",
-    
-    funFact: "Suka banget nyanyi dan nonton konser! 🎵✨"
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/user-female-circle.png" width="80"/><br>
+<h3>👤 Profile</h3>
+<b>Amira Octadella</b><br>
+<i>Mimi 🎀</i><br>
+📅 October 15, 2008<br>
+📚 SMK Student - RPL<br>
+📍 Indonesia 🇮🇩
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/sparkling-heart.png" width="80"/><br>
+<h3>💕 Passion</h3>
+💻 Web Development<br>
+✨ Public Speaking<br>
+🌸 Literasi & Menulis<br>
+🎤 MC & Moderator<br>
+🎨 Design & Creativity
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/><br>
+<h3>🚀 Current Focus</h3>
+<b>Learning, Sharing,<br>Growing!</b><br><br>
+🎵 <i>Fun Fact:</i><br>
+Suka banget nyanyi<br>dan nonton konser! ✨
+</td>
+</tr>
+</table>
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -47,7 +58,7 @@ const mimi = {
 ### ✨ ໒꒰ྀི´ ˘ ` ꒱ྀིა Tech Stack & Skills ✨
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
 </p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,figma&perline=5" />
@@ -175,7 +186,7 @@ const mimi = {
 ### 🌸 Current Projects & Learning 🌸
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250">
 </p>
 
 </div>
