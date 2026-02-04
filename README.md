@@ -11,6 +11,8 @@
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ```javascript
 const mimi = {
     fullName: "Amira Octadella",
@@ -34,11 +36,19 @@ const mimi = {
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
 ### ✨ ໒꒰ྀི´ ˘ ` ꒱ྀིა Tech Stack & Skills ✨
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+</p>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,figma&perline=5" />
 
@@ -95,38 +105,7 @@ const mimi = {
 
 ---
 
-### 🌟 ✿ What I'm Good At ✿ 🌟
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 💻 Development Skills
-- 🌸 **Web Development** (Basic–Intermediate)
-- 🎀 **CRUD Application Development**
-- ✨ **Responsive Design**
-- 💕 **Database Management**
-- 🌺 **Version Control (Git/GitHub)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 🎤 Soft Skills
-- 💖 **Public Speaking & MC**
-- 🌸 **Fasilitator & Moderator**
-- ✨ **Creative Content Writing**
-- 🎨 **Graphic Design**
-- 💕 **Team Collaboration**
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ### 📊 ໒꒰ྀི ˃ ᗜ ˂ ꒱ྀིა GitHub Stats & Activity ໒꒰ྀི ˃ ᗜ ˂ ꒱ྀིა 📊
 
@@ -149,6 +128,8 @@ const mimi = {
 <img src="https://komarev.com/ghpvc/?username=accaacaayha-glitch&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ### 🎯 ✨ My Mission ✨ 🎯
 
@@ -173,6 +154,8 @@ const mimi = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 ### 🌈 ໒꒰ྀི´ ˘ ` ꒱ྀིა Character Traits ໒꒰ྀི´ ˘ ` ꒱ྀིა 🌈
 
 <img src="https://img.shields.io/badge/💪-Percaya%20Diri-FF69B4?style=for-the-badge" />
@@ -187,7 +170,13 @@ const mimi = {
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
+
 ### 🌸 Current Projects & Learning 🌸
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
+</p>
 
 </div>
 
@@ -200,6 +189,8 @@ const mimi = {
 <div align="center">
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 💌 ໒꒰ྀི´ ˘ ` ꒱ྀིა Let's Connect! ໒꒰ྀི´ ˘ ` ꒱ྀིა 💌
 
