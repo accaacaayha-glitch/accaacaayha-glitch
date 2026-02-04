@@ -20,7 +20,6 @@
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/user-female-circle.png" width="80"/><br>
 <h3>👤 Profile</h3>
-<b>Amira Octadella</b><br>
 <i>Mimi 🎀</i><br>
 📅 October 15, 2008<br>
 📚 SMK Student - RPL<br>
