@@ -3,8 +3,9 @@
 <!-- Custom Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=AMIRA%20(MIMI)&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=☀️%20Fullstack%20Web%20Developer%20•%20Literasi%20Enthusiast%20•%20Young%20Speaker%20☀️&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Animated Greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Halo+Guysss+!!!+☀️+Welcome+to+My+GitHub;✨+Let's+Code+Something+Amazing+Together!+✨;🌻+Where+Creativity+Meets+Technology+🌻" alt="Typing SVG"/>
+<!-- Animated Greeting - VERSI DIPERBAIKI -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Halo+Guysss+!!!+Welcome+to+My+GitHub;Let's+Code+Something+Amazing+Together!;Where+Creativity+Meets+Technology)](https://git.io/typing-svg)
+
 <br>
 
 ### 🌻 ໒꒰ྀིっ˕ -｡꒱ྀི১ About Me 🌻
