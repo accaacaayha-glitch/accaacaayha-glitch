@@ -120,11 +120,6 @@
 
 ### 📊 ໒꒰ྀི ˃ ᗜ ˂ ꒱ྀིა GitHub Stats & Activity ໒꒰ྀི ˃ ᗜ ˂ ꒱ྀིა 📊
 
-<!-- GitHub Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=accaacaayha-glitch&theme=github-light&hide_border=true&bg_color=FFFEF7&color=FFD700&line=FFA500&point=FFD700&area=true&area_color=FFEB3B" width="100%"/>
-
-<br>
-
 <!-- Stats Cards -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=accaacaayha-glitch&show_icons=true&theme=default&hide_border=true&bg_color=FFFEF7&title_color=FFA500&icon_color=FFD700&text_color=333"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=accaacaayha-glitch&theme=default&hide_border=true&background=FFFEF7&stroke=FFA500&ring=FFD700&fire=FFA500&currStreakLabel=FFA500"/>
